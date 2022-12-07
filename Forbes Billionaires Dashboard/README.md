@@ -11,5 +11,3 @@ From my analysis, I discovered the following insights;
 4.  Having a net worth of $219 B, Elon Musk is the richest man alive. He is the founder and CEO of SpaceX and Tesla; The Boring Company's founder; and co-founder of Neuralink and OpenAI. 
 
 5.  An overwhelming proportion of billinaires are male. Most self-made billionaires are male. However, the average net worth of self-made female billionaires is 4% higher than their male counterparts.
-
-![image](https://user-images.githubusercontent.com/78285629/206242114-0185f1c3-11b7-4de2-a1cb-7f1d945e7782.png)
