@@ -1,4 +1,4 @@
-## Forbes has released its list of the world's wealthiest individuals and families every year since 1987. This list includes the prestigious 0.00003 percent club. There are 7.96 billion people on the planet, and just a few are billionaires. The 36th annual Forbes list of the world's billionaires comprised 2,668 billionaires with a combined net worth of $12.7 trillion, a decrease of 97 members from 2021. 
+Forbes has released its list of the world's wealthiest individuals and families every year since 1987. This list includes the prestigious 0.00003 percent club. There are 7.96 billion people on the planet, and just a few are billionaires. The 36th annual Forbes list of the world's billionaires comprised 2,668 billionaires with a combined net worth of $12.7 trillion, a decrease of 97 members from 2021. 
 
 Most billionaires are self-made while others acquire their wealth by inheritance or a mix of both self-made and by inheritance.
 
